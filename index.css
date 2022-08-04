@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.color-headers {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 2px;
+}
+
+input {
+  padding: 5px;
+}
+
+#colors {
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+}
+
+.colorsContainer {
+  width: 20%;
+  text-align: center;
+}
+
+.colorRect {
+  height: 70vh;
+  color: transparent;
+  width: 20%;
+  text-align: center;
+}
