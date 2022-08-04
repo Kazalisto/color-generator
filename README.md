@@ -1,1 +1,1 @@
-# color-generator
+simple color generator using an API
